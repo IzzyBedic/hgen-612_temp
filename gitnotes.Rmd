@@ -1,0 +1,18 @@
+---
+title: "Notes from Git"
+author: "Izzy Bedichek"
+date: "2024-01-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Upper right hand corner, commit, leave a note
+
+The clock icon shows history and is where you can find SHA
+
+`git checkout <SHA>` lets you go back to the version with the said SHA 
